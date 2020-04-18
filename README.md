@@ -1,6 +1,7 @@
 # Panoptes
 
 [![Build Status](https://travis-ci.org/jamesdobson/panoptes.svg?branch=master)](https://travis-ci.org/jamesdobson/panoptes)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjamesdobson%2Fpanoptes.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjamesdobson%2Fpanoptes?ref=badge_shield)
 
 Panoptes is a mac screensaver that rotates through a set of webpages. It's ideal
 for displaying status or system monitoring dashboards as your screensaver.
@@ -63,3 +64,6 @@ Set it like this:
 ## License
 
 Licensed under the [MIT](https://github.com/jamesdobson/panoptes/blob/master/LICENSE) license.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjamesdobson%2Fpanoptes.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjamesdobson%2Fpanoptes?ref=badge_large)
